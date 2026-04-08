@@ -1,1 +1,2 @@
-# Écrivez votre code ici !
+nom = cissoko
+age = 11 
